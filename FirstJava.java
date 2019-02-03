@@ -1,4 +1,6 @@
 Class A{
 
+  main(){
+  }
 
 }
